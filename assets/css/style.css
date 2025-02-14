@@ -13,9 +13,7 @@ ol {
   padding: 0;
   margin: 0;
 }
-.content-left,.tabs-grided-three {
-  margin-left: -110px !important;
-}
+
 body,
 html {
   margin: 0;
@@ -11895,7 +11893,7 @@ nav {
   margin-left: 7.5vw;
 }
 .wrapper{
-  max-width: 65vw;
+  max-width: 85vw;
 }
 #menu{
   overflow: hidden;
