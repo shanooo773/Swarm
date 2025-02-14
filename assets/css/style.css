@@ -4527,6 +4527,7 @@ p {
   border-radius: 90px;
   text-align: center;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
+
 }
 
 .w3l-feature-8 .feature-images span {
@@ -11890,7 +11891,7 @@ nav {
   color: black;
 }
 .feature-images{
-  margin-left: 7.5vw;
+  margin-left: 10.5vw !important;
 }
 .wrapper{
   max-width: 85vw;
