@@ -49,7 +49,7 @@ Swarm/
 ## 📞 Contact
 For any queries, feel free to reach out at:
 - **GitHub:** [shanooo773](https://github.com/shanooo773)
-- **Email:** shanooo773@example.com *(Replace with your email)*
+- **Email:** shanooo773@example.com 
 
 ---
 *This project is open-source. Feel free to contribute!* ✨
