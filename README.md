@@ -39,7 +39,8 @@ Swarm/
 3. **Open `index.html` in a browser.**
 
 ## 📷 Screenshots
-![Project Preview](images/preview.png) *(Replace with actual preview image)*
+![image](https://github.com/user-attachments/assets/0b9f5de0-1c97-4118-8500-bb3453e6451b)
+
 
 ## 📞 Contact
 For any queries, feel free to reach out at:
