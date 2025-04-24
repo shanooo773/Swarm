@@ -54,3 +54,35 @@ For any queries, feel free to reach out at:
 ---
 *This project is open-source. Feel free to contribute!* ✨
 
+
+## OTHERUI
+![WhatsApp Image 2025-04-24 at 6 47 14 AM](https://github.com/user-attachments/assets/cde205e8-cc30-4289-a598-a3463c273673)
+![WhatsApp Image 2025-04-24 at 6 47 13 AM](https://github.com/user-attachments/assets/dda9628a-fc4c-4604-b060-b3f0d9a58093)
+![WhatsApp Image 2025-04-24 at 6 47 12 AM](https://github.com/user-attachments/assets/d7709ebc-21c3-4165-9e30-c6ddcb890331)
+![WhatsApp Image 2025-04-24 at 6 47 12 AM (1)](https://github.com/user-attachments/assets/1be8cbca-0493-4630-8e06-f654984f9117)
+![WhatsApp Image 2025-04-24 at 6 47 11 AM](https://github.com/user-attachments/assets/af2e9521-62d9-47f1-97e6-784178403cb6)
+![WhatsApp Image 2025-04-24 at 6 47 05 AM](https://github.com/user-attachments/assets/8ae03591-79ee-4019-99c9-f03b6514cadc)
+![WhatsApp Image 2025-04-24 at 6 47 10 AM](https://github.com/user-attachments/assets/b4a45855-aa09-4a28-8b9d-6fb2925c5a28)
+![WhatsApp Image 2025-04-24 at 6 47 06 AM](https://github.com/user-attachments/assets/ab9fd688-0e05-4159-84d7-a1bbcabc69fb)
+![WhatsApp Image 2025-04-24 at 6 47 04 AM](https://github.com/user-attachments/assets/63926b94-a8da-4cdb-a27b-2fe30f1cd87e)
+![WhatsApp Image 2025-04-24 at 6 41 07 AM (1)](https://github.com/user-attachments/assets/2e971ca3-7345-4b21-ba64-77d499c8654a)
+![WhatsApp Image 2025-04-24 at 6 41 07 AM (2)](https://github.com/user-attachments/assets/60733228-0d31-46d2-9303-5445436d4533)
+![WhatsApp Image 2025-04-24 at 6 41 07 AM (3)](https://github.com/user-attachments/assets/58077bdf-c54f-434c-97d3-dc5df0a35bd8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
