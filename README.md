@@ -57,7 +57,9 @@ For any queries, feel free to reach out at:
 
 ## OTHERUI
 ![WhatsApp Image 2025-04-24 at 6 47 14 AM](https://github.com/user-attachments/assets/cde205e8-cc30-4289-a598-a3463c273673)
+## -----------------
 ![WhatsApp Image 2025-04-24 at 6 47 13 AM](https://github.com/user-attachments/assets/dda9628a-fc4c-4604-b060-b3f0d9a58093)
+## -----------------
 ![WhatsApp Image 2025-04-24 at 6 47 12 AM](https://github.com/user-attachments/assets/d7709ebc-21c3-4165-9e30-c6ddcb890331)
 ## ---------------
 ![WhatsApp Image 2025-04-24 at 6 47 12 AM (1)](https://github.com/user-attachments/assets/1be8cbca-0493-4630-8e06-f654984f9117)
