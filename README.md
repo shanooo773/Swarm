@@ -73,12 +73,7 @@ For any queries, feel free to reach out at:
 ![WhatsApp Image 2025-04-24 at 6 47 06 AM](https://github.com/user-attachments/assets/ab9fd688-0e05-4159-84d7-a1bbcabc69fb)
 ## ---------------
 ![WhatsApp Image 2025-04-24 at 6 47 04 AM](https://github.com/user-attachments/assets/63926b94-a8da-4cdb-a27b-2fe30f1cd87e)
-## ---------------
-![WhatsApp Image 2025-04-24 at 6 41 07 AM (1)](https://github.com/user-attachments/assets/2e971ca3-7345-4b21-ba64-77d499c8654a)
-## ---------------
-![WhatsApp Image 2025-04-24 at 6 41 07 AM (2)](https://github.com/user-attachments/assets/60733228-0d31-46d2-9303-5445436d4533)
-## ---------------
-![WhatsApp Image 2025-04-24 at 6 41 07 AM (3)](https://github.com/user-attachments/assets/58077bdf-c54f-434c-97d3-dc5df0a35bd8)
+
 
 
 
